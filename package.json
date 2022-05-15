@@ -70,7 +70,7 @@
     "test": "jest",
     "typecheck": "tsc",
     "flow": "flow",
-    "copy-flowtypes": "copy typings\index.flow.js build",
+    "copy-flowtypes": "copy typings\\index.flow.js build",
     "lint": "eslint src --cache",
     "release": "release-it",
     "prepublish": "yarn build",
